@@ -6,18 +6,19 @@
 html{
     font-size: 16px;
     line-height: 1.6;
-    font-family: sans-serif;
+    
 }
 html,body{
     background-color: #d4d4d4;
+    font-family: 'Josefin Sans';
 }
 h1{
-    font-family: serif;
+    font-family: 'Cardo';
     font-size: 3.998rem;
     padding:1rem 2rem;
 }
 h2{
-    font-family: serif;
+    font-family: 'Cardo';
     font-size: 2.827rem;
     padding:1rem 2rem;
 }
@@ -53,6 +54,7 @@ main p:last-child{
     background-color: #e4e4e4;
 }
 header{
+    font-family: 'Cardo';
     width:100%;
     border-bottom: 1rem solid black;
 }
