@@ -11,7 +11,7 @@ html{
 }
 html,body{
     background-color: #d4d4d4;
-    font-family: 'Josefin Sans';
+    
 }
 h1{
     font-family: 'Cardo';
@@ -44,6 +44,7 @@ nav li>a:active{
 p{
     font-size: 1.414rem;
     padding:0.5rem 2rem;
+    font-family: 'Josefin Sans';
 }
 main p:last-child{
     padding-bottom: 4rem;
