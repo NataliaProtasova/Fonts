@@ -14,12 +14,12 @@ html,body{
     
 }
 h1{
-    font-family: 'Cardo';
+    font-family: 'Cardo', 'Times New Roman', serif;
     font-size: 3.998rem;
     padding:1rem 2rem;
 }
 h2{
-    font-family: 'Cardo';
+    font-family: 'Cardo', 'Times New Roman', serif;
     font-size: 2.827rem;
     padding:1rem 2rem;
 }
@@ -44,7 +44,7 @@ nav li>a:active{
 p{
     font-size: 1.414rem;
     padding:0.5rem 2rem;
-    font-family: 'Josefin Sans';
+    font-family: 'Josefin Sans', 'Verdana', sans-serif;
 }
 main p:last-child{
     padding-bottom: 4rem;
@@ -56,7 +56,7 @@ main p:last-child{
     background-color: #e4e4e4;
 }
 header{
-    font-family: 'Cardo';
+    font-family: 'Cardo', 'Times New Roman', serif;
     width:100%;
     border-bottom: 1rem solid black;
 }
